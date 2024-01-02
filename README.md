@@ -1,0 +1,26 @@
+### Hi there 👋 I'm Malin
+#### :cherry_blossom: I love problem solving and learning new things :cherry_blossom:
+:smiley: I’m currently on a quest to score my first junior frontend developer role 
+
+:computer: At the moment I'm using the Mimo app to maintain and deepen my knowledge that  
+I gained while attending **Technigo frontend developer bootcamp**  
+
+:boom: All my projects so far can be found in my portfolio, please check it out: [Malins Portfolio](https://portfolio-m-skill.netlify.app) :boom:
+
+:cactus: Things I enjoy besides coding is snowboarding, nature, plants, crouchet and spending time with family and friends.
+
+
+<!--
+**MalinSkill/MalinSkill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
